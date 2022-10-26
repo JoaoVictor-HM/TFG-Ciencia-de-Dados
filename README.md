@@ -11,4 +11,4 @@ O trabalho foi desenvolvido com o objetivo de encontrar quais atributos de um lo
 4. Aplicação dos algoritmos de seleção
 5. Análise dos resultados obtidos
 
-Durante as etapas foram necessárias ferramentas como Excel e Python, as quais auxiliaram em toda a manipulação dos dados. Esses foram obtidos a partir de portais oficiais do governo americano, bem como de universidades do país.
+Durante as etapas foram necessárias ferramentas como Excel e Python, as quais auxiliaram em toda a manipulação dos dados. Esses foram obtidos a partir de portais oficiais do governo americano, bem como de universidades do país. Mais detalhes do desenvolvimento podem ser encontrados na monografia completa, a qual pode ser acessada por [este link](https://drive.google.com/file/d/1KcXpvb_q8WH7S8gBg2oksJXxH5T1LDyj/view?usp=sharing).
