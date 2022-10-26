@@ -1,16 +1,14 @@
-# Trabalho Final de Graduação em Ciência de Dados
+# Trabalho Final de Graduação - Análise de Atributos Relativos à Pandemia de COVID-19 nos EUA
+Para acessar a monografia completa, basta clicar [aqui](https://drive.google.com/file/d/1KcXpvb_q8WH7S8gBg2oksJXxH5T1LDyj/view?usp=sharing).
 
-Este repositório é dedicado a manutenção dos arquivos relativos ao desenvolvimento do trabalho final de gradução. O tema central do mesmo é uma análise dos dados relativos
-à pandemia nos EUA, buscando encontrar os fatores que foram e são mais relevantes para o maior ou menor controle da doença em cada estado. São dados que vão desde questões socio-econômicas,
-passando por fatores ligados à saúde, e até questões políticas.
+## Objetivo Central
+O trabalho foi desenvolvido com o objetivo de encontrar quais atributos de um local foram mais relevantes para uma maior mortalidade por COVID-19. Para isso foram percorridas etapas que vão desde a obtenção dos dados, até a interpretação dos resultados obtidos por cada algoritmo de seleção de atributos.
 
-Seu desenvolvimento foi feito em *python*, usando *jupyter notebooks*, o que possibilita a utilização de diversas bibliotecas e ferramentas que ajudam desde a estruturação, até
-a análise mais profunda das informações e exposição por meio de gráficos. Para tanto foram úteis as seguintes bibliotecas:
+## Etapas do Desenvolvimento
+1. Obtenção dos dados
+2. Limpeza e tratamento dos dados obtidos
+3. Formação de um conjunto final de atributos a serem analisados
+4. Aplicação dos algoritmos de seleção
+5. Análise dos resultados obtidos
 
-* Pandas
-* Matplotlib
-* Numpy
-
-Futuramente pretende-se usar de ferramentas de *machine learning* provenientes de libs tais como *SciKit Learn*. Valhe ressaltar que o projeto ainda se encontra em fase inicial,
-onde foram necessários esforços relativos à coleta e limpeza dos dados, estudo das ferramtas que auxiliariam o desenvolvimento e refinamento do escopo do trabalho. Futuras atualizações
-seram adicionadas a esse repositório.
+Durante as etapas foram necessárias ferramentas como Excel e Python, as quais auxiliaram em toda a manipulação dos dados. Esses foram obtidos a partir de portais oficiais do governo americano, bem como de universidades do país.
